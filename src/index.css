@@ -1,0 +1,12 @@
+.scroll-to-top {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	cursor: pointer;
+	transition: opacity 0.2s ease-in-out;
+	opacity: 0.5;
+}
+
+.scroll-to-top:hover {
+	opacity: 1;
+}
